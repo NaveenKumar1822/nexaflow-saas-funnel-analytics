@@ -247,10 +247,10 @@ Pivot internal telemetry away from session count monitoring toward milestone com
 nexaflow-saas-funnel-analytics/
 │
 ├── 01_data/
-│   ├── raw/
+│   ├── 01_raw/
 │   │   └── saas_funnel_raw.csv
 │   │
-│   └── processed/
+│   └── 02_processed/
 │       └── clean_saas_funnel.csv
 │
 ├── 02_data_preprocessing/
