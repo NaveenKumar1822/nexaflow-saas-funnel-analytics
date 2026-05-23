@@ -260,7 +260,7 @@ nexaflow-saas-funnel-analytics/
 │   └── saas_funnel_analysis.sql
 │
 ├── 04_dashboard/
-│   ├── NexaFlow_SaaS_Funnel_Analytics.pbix
+│   ├── nexaflow_saas_funnel_analytics.pbix
 │   └── dashboard_screenshots/
 │       ├── executive_overview.png
 │       ├── acquisition_activation.png
