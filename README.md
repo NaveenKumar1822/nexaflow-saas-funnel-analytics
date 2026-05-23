@@ -286,16 +286,31 @@ nexaflow-saas-funnel-analytics/
 ## Screenshots
 
 ### Page 1 — Executive Summary: End-to-End Funnel Health
+![Executive Summary Dashboard](04_dashboard/dashboard_screenshots/executive_overview.png)
+
 KPI cards, staged funnel bar chart, and key performance rate comparisons. Reveals that only 20% of total signups ultimately convert, with activation identified as the critical bottleneck.
 
+---
+
 ### Page 2 — Acquisition & Activation: Channel Quality & Early Onboarding
+![Acquisition and Activation Dashboard](04_dashboard/dashboard_screenshots/acquisition_activation.png)
+
 Acquisition mix donut, activation volume by source, conversion efficiency by channel, and the activation impact comparison. Highlights Referral as the top-performing channel and demonstrates the ~5× conversion lift from activation.
 
+---
+
 ### Page 3 — Engagement & Conversion: User Behavior & Time-to-Value
+![Engagement and Conversion Dashboard](04_dashboard/dashboard_screenshots/engagement_conversion.png)
+
 Engagement tier conversion comparison and days-to-conversion distribution. Shows minimal differentiation across session tiers and surfaces the Day 6–10 window as the critical conversion period.
 
+---
+
 ### Page 4 — Retention & Churn: Attrition Trends & Risk Factors
+![Retention and Churn Dashboard](04_dashboard/dashboard_screenshots/retention_churn.png)
+
 Converted vs. non-converted churn comparison and channel-level churn viability chart. Demonstrates that conversion nearly halves churn probability and that the Ads channel is a structural retention liability.
+
 
 ---
 
