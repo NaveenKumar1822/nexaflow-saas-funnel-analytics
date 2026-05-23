@@ -253,13 +253,11 @@ nexaflow-saas-funnel-analytics/
 │   └── processed/
 │       └── clean_saas_funnel.csv
 │
-├── 02_python_analysis/
-│   ├── data_cleaning.ipynb
-│   └── exploratory_analysis.ipynb
+├── 02_data_preprocessing/
+│   └── data_cleaning.ipynb
 │
 ├── 03_sql/
-│   ├── saas_funnel_segment_analysis.sql
-│   └── funnel_reporting_views.sql
+│   └── saas_funnel_analysis.sql
 │
 ├── 04_dashboard/
 │   ├── NexaFlow_SaaS_Funnel_Analytics.pbix
@@ -276,9 +274,9 @@ nexaflow-saas-funnel-analytics/
 ├── 06_docs/
 │   └── metric_definitions.md
 │
+├── .gitignore
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.text
 ```
 
 ---
