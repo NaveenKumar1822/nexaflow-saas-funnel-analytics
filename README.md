@@ -276,8 +276,8 @@ nexaflow-saas-funnel-analytics/
 ├── 06_docs/
 │   └── metric_definitions.md
 │
-├── requirements.txt
 ├── README.md
+├── requirements.txt
 └── .gitignore
 ```
 
